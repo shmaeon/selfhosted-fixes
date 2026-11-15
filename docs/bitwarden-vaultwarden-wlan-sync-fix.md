@@ -3,6 +3,7 @@
 > **Status:** ✅ Problem gelöst
 > **Datum:** 15. November 2026
 > **Betroffene Komponenten:** Bitwarden Android-App, Vaultwarden (Docker), FRITZ!Box 6670 Cable, IPv6
+> **Offizielles Issue:** [bitwarden/android#7618](https://github.com/bitwarden/android/issues/7618)
 
 ---
 
@@ -67,6 +68,14 @@ Bei Problemen mit selbst gehosteten Diensten unter Android, insbesondere wenn:
 - Verbindungsfehler oder Timeouts auftreten,
 
 sollte **zuerst die App-Berechtigung „Geräte in der Nähe“** überprüft werden.
+
+---
+
+## 6. Offizielles Issue
+
+Das Problem wurde als Feature Request im offiziellen Bitwarden-Android-Repo dokumentiert:
+
+📌 **[bitwarden/android#7618](https://github.com/bitwarden/android/issues/7618)** – *Add warning/check for missing 'Nearby devices' permission that silently blocks WiFi connectivity*
 
 ---
 
